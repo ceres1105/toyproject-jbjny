@@ -1,5 +1,5 @@
 {
-  "name": "apptest_homepage",
+  "name": "toyproject_jbjny",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ceres1105/apptest_homepage.git"
+    "url": "git+https://github.com/ceres1105/toyproject_jbjny.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ceres1105/apptest_homepage/issues"
+    "url": "https://github.com/ceres1105/toyproject_jbjny/issues"
   },
-  "homepage": "https://github.com/ceres1105/apptest_homepage#readme",
+  "homepage": "https://github.com/ceres1105/toyproject_jbjny#readme",
   "devDependencies": {
     "@babel/core": "^7.12.9",
     "@babel/preset-env": "^7.12.7",
